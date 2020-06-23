@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangwenzhiwwz/WX.git"
+    "url": "git+https://github.com/378749986/WX.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wangwenzhiwwz/WX/issues"
+    "url": "https://github.com/378749986/WX/issues"
   },
-  "homepage": "https://github.com/wangwenzhiwwz/WX#readme",
+  "homepage": "https://github.com/378749986/WX#readme",
   "dependencies": {
     "apifm-wxapi": "^2.2.0"
   }
