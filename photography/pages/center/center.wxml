@@ -18,16 +18,16 @@
   <view class="menu-warp">
     <navigator url='/pages/page/article?key=introduce'>
       <image class="icon" src='../../assets/icons/about.png'></image>
-      关于我想学摄影
+      关于陆茜的婚纱
       <image class="next" src='../../assets/icons/next.png'></image>
     </navigator>
   </view>
-  <view class="menu-warp">
+  <!-- <view class="menu-warp">
     <navigator url='/pages/page/article?key=about'>
       <image class="icon" src='../../assets/icons/developer.png'></image>
       关于开发者
       <image class="next" src='../../assets/icons/next.png'></image>
     </navigator>
-  </view>
+  </view> -->
   <button type="default" bindtap="calling" style='width:80%;margin-bottom:20px; background-color:#fc0'>电话联系我</button>
 </view>

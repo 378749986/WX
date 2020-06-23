@@ -1,5 +1,5 @@
 const WXAPI = require('apifm-wxapi')
-WXAPI.init('photography')
+WXAPI.init('lucywedding')
 
 App({
   onLaunch() {
